@@ -1,6 +1,6 @@
 # Admin Store
 
-> Project ini adalah sistem admin sederhana untuk mengelola pembelian produk
+Project ini adalah sistem admin sederhana untuk mengelola pembelian produk
 
 ## 🧠 Features
 - Add / View Products
