@@ -70,8 +70,8 @@ CREATE TABLE purchases (
 ## ⚙️ Instalasi & Setup
 
 > 1️⃣ Clone Repository
- - git clone https://github.com/username/admin-purchase.git
- - cd admin-purchase
+ - git clone https://github.com/RfliFhri/admin-store.git
+ - cd admin-store
 
 > 2️⃣ Install Dependency
  - npm install
