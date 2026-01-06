@@ -78,16 +78,13 @@ CREATE TABLE purchases (
 
 ## ▶️ Menjalankan Aplikasi
  - npm start
-```route
-Akses:
 
-Admin Purchases → http://localhost:3000/purchases
+> Akses:
 
-Produk → http://localhost:3000/products
+ - Admin Purchases → http://localhost:3000/purchases
 
-Chatbot → http://localhost:3000/chat
+ - Produk → http://localhost:3000/products
 
-```
 ## 👤 Author
 
 > Rafli
