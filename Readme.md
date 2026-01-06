@@ -11,7 +11,7 @@
 Node.js • Express • EJS • MySQL 
 
 ## 📂 Struktur Folder
-
+```stuktur
 admin-purchase/
 │
 ├── src/
@@ -35,7 +35,7 @@ admin-purchase/
 ├── .env
 ├── package.json
 └── README.md
-
+```
 ## 🗄️ Database
 Create tables:
 
