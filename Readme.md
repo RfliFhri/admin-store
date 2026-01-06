@@ -69,17 +69,15 @@ CREATE TABLE purchases (
 
 ## ⚙️ Instalasi & Setup
 
-> 1️⃣ Clone Repository
- - git clone https://github.com/RfliFhri/admin-store.git
- - cd admin-store
+### 1️⃣ Clone Repository
+```bash
+  git clone https://github.com/RfliFhri/admin-store.git
+  cd admin-store
+  npm install
+  npm run dev
+```
 
-> 2️⃣ Install Dependency
- - npm install
-
-## ▶️ Menjalankan Aplikasi
- - npm run dev
-
-> Akses:
+### ▶️ Akses:
 
  - Admin Purchases → http://localhost:3000/purchases
 
