@@ -67,6 +67,17 @@ CREATE TABLE purchases (
 
 ```
 
+### Tambahkan data dummy
+```sql
+INSERT INTO products (name, price) VALUES
+('Pensil',2000),('Pulpen',3000),('Buku',5000),('Penghapus',1500),
+('Penggaris',4000),('Spidol',7000),('Kertas A4',35000),
+('Map',2500),('Stabilo',6000),('Notebook',15000);
+
+INSERT INTO stocks (product_id, quantity)
+SELECT id, 100 FROM products;
+```
+
 ## ⚙️ Instalasi & Setup
 
 ### 1️⃣ Clone Repository
