@@ -77,7 +77,7 @@ CREATE TABLE purchases (
  - npm install
 
 ## ▶️ Menjalankan Aplikasi
- - npm start
+ - npm run dev
 
 > Akses:
 
