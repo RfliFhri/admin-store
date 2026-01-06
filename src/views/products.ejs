@@ -1,0 +1,22 @@
+<h2>Daftar Produk & Stok</h2>
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Nama Produk</th>
+      <th scope="col">Harga</th>
+      <th scope="col">Stok</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% products.forEach(p => { %>
+    <tr>
+      <th scope="row"><%= p.id %></th>
+      <td><%= p.name %></td>
+      <td>Rp <%= p.price %></td>
+      <td><%= p.quantity %></td>
+    </tr>
+    <% }) %>
+  </tbody>
+</table>
